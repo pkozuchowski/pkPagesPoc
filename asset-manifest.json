@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pkPagesPoc/static/css/main.073c9b0a.css",
+    "main.js": "/pkPagesPoc/static/js/main.93268141.js",
+    "static/js/787.419af693.chunk.js": "/pkPagesPoc/static/js/787.419af693.chunk.js",
+    "static/media/logo.svg": "/pkPagesPoc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pkPagesPoc/index.html",
+    "main.073c9b0a.css.map": "/pkPagesPoc/static/css/main.073c9b0a.css.map",
+    "main.93268141.js.map": "/pkPagesPoc/static/js/main.93268141.js.map",
+    "787.419af693.chunk.js.map": "/pkPagesPoc/static/js/787.419af693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.93268141.js"
+  ]
+}
