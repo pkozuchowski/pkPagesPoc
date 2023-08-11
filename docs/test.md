@@ -17,6 +17,9 @@ test
 ***
 # Interfaces
 
+<details>
+  <summary>Map By Id</summary>
+
 test
 ```apex | Title | Description
 public class MyCtrl{
@@ -25,3 +28,4 @@ public class MyCtrl{
 	}
 }
 ```
+</details>
